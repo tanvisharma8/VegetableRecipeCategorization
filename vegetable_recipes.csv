@@ -1,0 +1,801 @@
+Recipe Name,Ingredients,Main Vegetable,Cuisine,Cooking Method
+spinach Boil,"boil spinach, potato, cauliflower, tomato, fish sauce, coconut milk",spinach,Thai,boil
+zucchini Saute,"saute zucchini, bell pepper, mushroom, tomato, cream, tomato",zucchini,American,saute
+garlic Stir Fry,"stir fry garlic, zucchini, cauliflower, potato, cumin, ginger",garlic,Indian,stir fry
+zucchini Stir Fry,"stir fry zucchini, bell pepper, cabbage, peas, olive oil, thyme",zucchini,French,stir fry
+carrot Soup,"soup carrot, eggplant, zucchini, cumin, turmeric",carrot,Indian,soup
+bell pepper Curry,"curry bell pepper, peas, garlic, chili",bell pepper,Thai,curry
+tomato Boil,"boil tomato, zucchini, bell pepper, chili, fish sauce",tomato,Thai,boil
+mushroom Stir Fry,"stir fry mushroom, zucchini, spinach, bell pepper, garlic, thyme",mushroom,French,stir fry
+garlic Roast,"roast garlic, potato, eggplant, zucchini, cream, onion",garlic,French,roast
+mushroom Roast,"roast mushroom, carrot, garlic, olive oil",mushroom,French,roast
+tomato Saute,"saute tomato, carrot, garlic, basil, olive oil",tomato,Italian,saute
+garlic Saute,"saute garlic, bell pepper, spinach, mushroom, cheddar, avocado",garlic,Mexican,saute
+bell pepper Saute,"saute bell pepper, broccoli, avocado, cheddar",bell pepper,Mexican,saute
+eggplant Boil,"boil eggplant, onion, spinach, chili, lemongrass",eggplant,Thai,boil
+cabbage Bake,"bake cabbage, mushroom, broccoli, ginger, turmeric",cabbage,Indian,bake
+cauliflower Boil,"boil cauliflower, peas, avocado, salsa",cauliflower,Mexican,boil
+onion Roast,"roast onion, cabbage, turmeric, ginger",onion,Indian,roast
+cabbage Roast,"roast cabbage, mushroom, carrot, garam masala, coriander",cabbage,Indian,roast
+mushroom Boil,"boil mushroom, zucchini, potato, spinach, olive oil, onion",mushroom,French,boil
+cauliflower Bake,"bake cauliflower, zucchini, olive oil, garlic",cauliflower,French,bake
+carrot Stir Fry,"stir fry carrot, zucchini, chili, turmeric",carrot,Indian,stir fry
+peas Curry,"curry peas, potato, cauliflower, turmeric, chili",peas,Indian,curry
+zucchini Bake,"bake zucchini, eggplant, fish sauce, lemongrass",zucchini,Thai,bake
+bell pepper Roast,"roast bell pepper, mushroom, tomato sauce, oregano",bell pepper,Italian,roast
+zucchini Roast,"roast zucchini, spinach, cauliflower, bell pepper, ginger, chili",zucchini,Indian,roast
+carrot Roast,"roast carrot, eggplant, spinach, potato, garlic, tomato",carrot,Mediterranean,roast
+onion Boil,"boil onion, carrot, spring onion, soy sauce",onion,Chinese,boil
+onion Grill,"grill onion, broccoli, bell pepper, butter, garlic",onion,French,grill
+cabbage Bake,"bake cabbage, tomato, carrot, feta, tomato",cabbage,Mediterranean,bake
+cabbage Roast,"roast cabbage, eggplant, cauliflower, cumin, coriander",cabbage,Indian,roast
+carrot Saute,"saute carrot, potato, mushroom, cumin, ginger",carrot,Indian,saute
+tomato Roast,"roast tomato, eggplant, lemongrass, ginger",tomato,Thai,roast
+onion Roast,"roast onion, spinach, turmeric, coriander",onion,Indian,roast
+broccoli Bake,"bake broccoli, garlic, avocado, beans",broccoli,Mexican,bake
+cauliflower Roast,"roast cauliflower, tomato, mushroom, cilantro, cheddar",cauliflower,Mexican,roast
+spinach Grill,"grill spinach, mushroom, coriander, chili",spinach,Indian,grill
+bell pepper Boil,"boil bell pepper, eggplant, onion, ginger, garlic",bell pepper,Thai,boil
+garlic Saute,"saute garlic, eggplant, cabbage, mozzarella, olive oil",garlic,Italian,saute
+cauliflower Boil,"boil cauliflower, eggplant, lemongrass, garlic",cauliflower,Thai,boil
+onion Bake,"bake onion, carrot, ginger, coconut milk",onion,Thai,bake
+bell pepper Soup,"soup bell pepper, mushroom, peas, cabbage, soy sauce, spring onion",bell pepper,Chinese,soup
+zucchini Saute,"saute zucchini, broccoli, tomato, turmeric, cumin",zucchini,Indian,saute
+peas Roast,"roast peas, tomato, butter, bacon",peas,American,roast
+spinach Soup,"soup spinach, garlic, eggplant, lemon, feta",spinach,Mediterranean,soup
+carrot Curry,"curry carrot, spinach, garlic, chili",carrot,Chinese,curry
+potato Saute,"saute potato, mushroom, olive oil, basil",potato,Italian,saute
+cauliflower Curry,"curry cauliflower, tomato, spinach, mozzarella, oregano",cauliflower,Italian,curry
+bell pepper Bake,"bake bell pepper, onion, peas, tomato, herbs",bell pepper,Mediterranean,bake
+cabbage Grill,"grill cabbage, zucchini, mushroom, chili, spring onion",cabbage,Chinese,grill
+bell pepper Roast,"roast bell pepper, carrot, spring onion, ginger",bell pepper,Chinese,roast
+carrot Roast,"roast carrot, mushroom, turmeric, coriander",carrot,Indian,roast
+zucchini Curry,"curry zucchini, cauliflower, bell pepper, onion, lemongrass, coconut milk",zucchini,Thai,curry
+eggplant Roast,"roast eggplant, cauliflower, zucchini, carrot, basil, tomato sauce",eggplant,Italian,roast
+peas Soup,"soup peas, cabbage, soy sauce, garlic",peas,Chinese,soup
+cauliflower Soup,"soup cauliflower, potato, broccoli, eggplant, beans, corn",cauliflower,Mexican,soup
+peas Saute,"saute peas, tomato, spring onion, garlic",peas,Chinese,saute
+carrot Soup,"soup carrot, tomato, potato, broccoli, salsa, beans",carrot,Mexican,soup
+peas Saute,"saute peas, onion, sesame oil, chili",peas,Chinese,saute
+bell pepper Roast,"roast bell pepper, tomato, zucchini, bacon, tomato",bell pepper,American,roast
+peas Stir Fry,"stir fry peas, eggplant, basil, olive oil",peas,Italian,stir fry
+garlic Curry,"curry garlic, eggplant, mushroom, carrot, bacon, onion",garlic,American,curry
+garlic Boil,"boil garlic, mushroom, cabbage, eggplant, garam masala, cumin",garlic,Indian,boil
+potato Bake,"bake potato, spinach, avocado, corn",potato,Mexican,bake
+zucchini Curry,"curry zucchini, carrot, potato, cumin, chili",zucchini,Indian,curry
+cauliflower Bake,"bake cauliflower, tomato, mushroom, bacon, tomato",cauliflower,American,bake
+bell pepper Grill,"grill bell pepper, garlic, tomato, soy sauce, ginger",bell pepper,Chinese,grill
+broccoli Saute,"saute broccoli, peas, ginger, chili",broccoli,Chinese,saute
+broccoli Soup,"soup broccoli, zucchini, onion, tomato, ginger, garlic",broccoli,Chinese,soup
+mushroom Boil,"boil mushroom, cauliflower, bell pepper, garlic, fish sauce",mushroom,Thai,boil
+garlic Boil,"boil garlic, tomato, potato, corn, salsa",garlic,Mexican,boil
+zucchini Stir Fry,"stir fry zucchini, cabbage, onion, feta, herbs",zucchini,Mediterranean,stir fry
+onion Curry,"curry onion, garlic, peas, olive oil, tomato sauce",onion,Italian,curry
+mushroom Roast,"roast mushroom, tomato, potato, garlic, olive oil, onion",mushroom,French,roast
+eggplant Bake,"bake eggplant, peas, cabbage, carrot, cream, butter",eggplant,American,bake
+tomato Stir Fry,"stir fry tomato, peas, mushroom, lemon, garlic",tomato,Mediterranean,stir fry
+spinach Saute,"saute spinach, potato, cauliflower, garlic, garlic, sesame oil",spinach,Chinese,saute
+zucchini Saute,"saute zucchini, peas, spinach, cauliflower, onion, olive oil",zucchini,French,saute
+onion Saute,"saute onion, spinach, cabbage, broccoli, fish sauce, lemongrass",onion,Thai,saute
+garlic Saute,"saute garlic, tomato, soy sauce, spring onion",garlic,Chinese,saute
+garlic Boil,"boil garlic, carrot, tomato, olive oil, feta",garlic,Mediterranean,boil
+mushroom Grill,"grill mushroom, onion, garlic, zucchini, garlic, onion",mushroom,French,grill
+zucchini Curry,"curry zucchini, cabbage, onion, butter",zucchini,American,curry
+mushroom Stir Fry,"stir fry mushroom, spinach, garlic, oregano, tomato sauce",mushroom,Italian,stir fry
+eggplant Roast,"roast eggplant, mushroom, tomato, garlic, coconut milk, lemongrass",eggplant,Thai,roast
+carrot Curry,"curry carrot, cauliflower, tomato, olive oil",carrot,Mediterranean,curry
+broccoli Soup,"soup broccoli, bell pepper, cabbage, zucchini, lemon, tomato",broccoli,Mediterranean,soup
+cabbage Saute,"saute cabbage, mushroom, tomato, bacon, onion",cabbage,American,saute
+eggplant Stir Fry,"stir fry eggplant, garlic, onion, olive oil",eggplant,French,stir fry
+carrot Roast,"roast carrot, broccoli, eggplant, butter, cheddar",carrot,American,roast
+bell pepper Bake,"bake bell pepper, onion, peas, tomato, spring onion, sesame oil",bell pepper,Chinese,bake
+potato Stir Fry,"stir fry potato, bell pepper, broccoli, corn, cilantro",potato,Mexican,stir fry
+spinach Roast,"roast spinach, zucchini, avocado, cilantro",spinach,Mexican,roast
+broccoli Bake,"bake broccoli, cabbage, thyme, garlic",broccoli,French,bake
+cauliflower Stir Fry,"stir fry cauliflower, broccoli, eggplant, onion, cream",cauliflower,French,stir fry
+carrot Stir Fry,"stir fry carrot, onion, bell pepper, basil, oregano",carrot,Italian,stir fry
+broccoli Roast,"roast broccoli, garlic, carrot, ginger, chili",broccoli,Indian,roast
+zucchini Bake,"bake zucchini, mushroom, onion, feta, tomato",zucchini,Mediterranean,bake
+cabbage Grill,"grill cabbage, carrot, garlic, broccoli, soy sauce, garlic",cabbage,Chinese,grill
+potato Curry,"curry potato, mushroom, garlic, tomato",potato,Mediterranean,curry
+potato Curry,"curry potato, zucchini, onion, spinach, mozzarella, olive oil",potato,Italian,curry
+tomato Curry,"curry tomato, broccoli, cabbage, cheddar, butter",tomato,American,curry
+mushroom Boil,"boil mushroom, peas, bell pepper, cheddar, corn",mushroom,Mexican,boil
+onion Stir Fry,"stir fry onion, spinach, garlic, potato, butter, cream",onion,French,stir fry
+tomato Boil,"boil tomato, zucchini, oregano, tomato sauce",tomato,Italian,boil
+bell pepper Bake,"bake bell pepper, carrot, butter, cream",bell pepper,French,bake
+broccoli Bake,"bake broccoli, cauliflower, mozzarella, oregano",broccoli,Italian,bake
+cabbage Soup,"soup cabbage, eggplant, chili, spring onion",cabbage,Chinese,soup
+carrot Saute,"saute carrot, potato, bell pepper, cauliflower, garlic, cream",carrot,French,saute
+tomato Stir Fry,"stir fry tomato, peas, potato, basil, olive oil",tomato,Italian,stir fry
+peas Saute,"saute peas, onion, tomato, cabbage, garlic, coconut milk",peas,Thai,saute
+eggplant Grill,"grill eggplant, zucchini, tomato, garlic",eggplant,Mediterranean,grill
+bell pepper Stir Fry,"stir fry bell pepper, onion, spinach, mushroom, cheddar, bacon",bell pepper,American,stir fry
+carrot Saute,"saute carrot, broccoli, onion, olive oil, cream",carrot,French,saute
+potato Grill,"grill potato, zucchini, peas, mozzarella, parmesan",potato,Italian,grill
+zucchini Saute,"saute zucchini, cabbage, tomato, thyme, garlic",zucchini,French,saute
+potato Boil,"boil potato, bell pepper, tomato, beans, salsa",potato,Mexican,boil
+bell pepper Saute,"saute bell pepper, zucchini, tomato, garlic, chili, fish sauce",bell pepper,Thai,saute
+zucchini Grill,"grill zucchini, carrot, cauliflower, chili, sesame oil",zucchini,Chinese,grill
+bell pepper Boil,"boil bell pepper, zucchini, cheddar, cilantro",bell pepper,Mexican,boil
+cabbage Bake,"bake cabbage, carrot, potato, butter, thyme",cabbage,French,bake
+onion Saute,"saute onion, tomato, mushroom, bell pepper, spring onion, soy sauce",onion,Chinese,saute
+potato Curry,"curry potato, garlic, olive oil, garlic",potato,Mediterranean,curry
+spinach Saute,"saute spinach, cabbage, potato, carrot, onion, cheddar",spinach,American,saute
+cauliflower Grill,"grill cauliflower, broccoli, spinach, eggplant, ginger, fish sauce",cauliflower,Thai,grill
+broccoli Curry,"curry broccoli, zucchini, garlic, ginger",broccoli,Thai,curry
+zucchini Soup,"soup zucchini, cauliflower, carrot, tomato, chili, garam masala",zucchini,Indian,soup
+eggplant Roast,"roast eggplant, mushroom, ginger, garlic",eggplant,Chinese,roast
+spinach Curry,"curry spinach, zucchini, potato, carrot, herbs, tomato",spinach,Mediterranean,curry
+eggplant Bake,"bake eggplant, garlic, cabbage, cheddar, bacon",eggplant,American,bake
+eggplant Stir Fry,"stir fry eggplant, spinach, onion, bacon",eggplant,American,stir fry
+broccoli Saute,"saute broccoli, eggplant, onion, onion, cream",broccoli,French,saute
+peas Saute,"saute peas, broccoli, ginger, spring onion",peas,Chinese,saute
+carrot Soup,"soup carrot, bell pepper, ginger, chili",carrot,Chinese,soup
+bell pepper Boil,"boil bell pepper, potato, onion, tomato, onion",bell pepper,American,boil
+eggplant Stir Fry,"stir fry eggplant, peas, tomato, carrot, olive oil, onion",eggplant,French,stir fry
+cabbage Soup,"soup cabbage, broccoli, ginger, soy sauce",cabbage,Chinese,soup
+peas Stir Fry,"stir fry peas, cabbage, chili, ginger",peas,Thai,stir fry
+mushroom Grill,"grill mushroom, potato, zucchini, tomato, lemon",mushroom,Mediterranean,grill
+mushroom Curry,"curry mushroom, eggplant, cauliflower, tomato, bacon",mushroom,American,curry
+onion Bake,"bake onion, spinach, mushroom, feta, tomato",onion,Mediterranean,bake
+cauliflower Saute,"saute cauliflower, potato, peas, tomato, thyme, butter",cauliflower,French,saute
+spinach Roast,"roast spinach, potato, mushroom, coconut milk, lemongrass",spinach,Thai,roast
+broccoli Soup,"soup broccoli, zucchini, tomato sauce, olive oil",broccoli,Italian,soup
+broccoli Roast,"roast broccoli, cabbage, cheddar, cream",broccoli,American,roast
+potato Roast,"roast potato, mushroom, tomato, ginger, sesame oil",potato,Chinese,roast
+garlic Roast,"roast garlic, potato, cauliflower, tomato, garlic, lemongrass",garlic,Thai,roast
+bell pepper Bake,"bake bell pepper, peas, spinach, spring onion, sesame oil",bell pepper,Chinese,bake
+onion Stir Fry,"stir fry onion, eggplant, turmeric, cumin",onion,Indian,stir fry
+cauliflower Saute,"saute cauliflower, bell pepper, turmeric, ginger",cauliflower,Indian,saute
+garlic Roast,"roast garlic, zucchini, parmesan, olive oil",garlic,Italian,roast
+mushroom Saute,"saute mushroom, spinach, potato, chili, lemongrass",mushroom,Thai,saute
+carrot Soup,"soup carrot, spinach, cauliflower, garam masala, turmeric",carrot,Indian,soup
+cabbage Stir Fry,"stir fry cabbage, potato, mushroom, beans, salsa",cabbage,Mexican,stir fry
+broccoli Curry,"curry broccoli, garlic, peas, corn, avocado",broccoli,Mexican,curry
+garlic Stir Fry,"stir fry garlic, peas, cheddar, beans",garlic,Mexican,stir fry
+zucchini Grill,"grill zucchini, carrot, onion, turmeric, cumin",zucchini,Indian,grill
+eggplant Saute,"saute eggplant, garlic, tomato sauce, basil",eggplant,Italian,saute
+mushroom Grill,"grill mushroom, bell pepper, mozzarella, parmesan",mushroom,Italian,grill
+potato Grill,"grill potato, cabbage, broccoli, cheddar, corn",potato,Mexican,grill
+broccoli Soup,"soup broccoli, tomato, cheddar, onion",broccoli,American,soup
+eggplant Grill,"grill eggplant, cabbage, broccoli, spinach, corn, salsa",eggplant,Mexican,grill
+mushroom Soup,"soup mushroom, carrot, cauliflower, cheddar, cilantro",mushroom,Mexican,soup
+bell pepper Boil,"boil bell pepper, carrot, corn, cilantro",bell pepper,Mexican,boil
+potato Stir Fry,"stir fry potato, bell pepper, onion, chili, fish sauce",potato,Thai,stir fry
+eggplant Bake,"bake eggplant, garlic, onion, potato, cream, onion",eggplant,American,bake
+spinach Boil,"boil spinach, cauliflower, thyme, olive oil",spinach,French,boil
+tomato Boil,"boil tomato, bell pepper, spinach, olive oil, cream",tomato,French,boil
+cabbage Boil,"boil cabbage, bell pepper, cauliflower, lemongrass, chili",cabbage,Thai,boil
+cabbage Saute,"saute cabbage, cauliflower, onion, zucchini, cilantro, avocado",cabbage,Mexican,saute
+broccoli Curry,"curry broccoli, spinach, garlic, tomato",broccoli,Mediterranean,curry
+zucchini Boil,"boil zucchini, mushroom, coconut milk, fish sauce",zucchini,Thai,boil
+carrot Boil,"boil carrot, bell pepper, cabbage, broccoli, lemongrass, fish sauce",carrot,Thai,boil
+eggplant Curry,"curry eggplant, garlic, peas, carrot, tomato, herbs",eggplant,Mediterranean,curry
+potato Saute,"saute potato, cabbage, onion, carrot, beans, corn",potato,Mexican,saute
+zucchini Grill,"grill zucchini, cabbage, broccoli, parmesan, basil",zucchini,Italian,grill
+spinach Curry,"curry spinach, potato, garlic, herbs",spinach,Mediterranean,curry
+garlic Grill,"grill garlic, broccoli, bell pepper, potato, lemon, tomato",garlic,Mediterranean,grill
+broccoli Roast,"roast broccoli, zucchini, tomato, feta, garlic",broccoli,Mediterranean,roast
+cabbage Boil,"boil cabbage, broccoli, garlic, peas, lemon, garlic",cabbage,Mediterranean,boil
+bell pepper Soup,"soup bell pepper, eggplant, onion, cabbage, beans, avocado",bell pepper,Mexican,soup
+onion Soup,"soup onion, cabbage, eggplant, cream, garlic",onion,French,soup
+cabbage Bake,"bake cabbage, eggplant, onion, chili, turmeric",cabbage,Indian,bake
+bell pepper Boil,"boil bell pepper, garlic, onion, bacon, butter",bell pepper,American,boil
+tomato Stir Fry,"stir fry tomato, broccoli, eggplant, cabbage, tomato sauce, parmesan",tomato,Italian,stir fry
+peas Boil,"boil peas, onion, zucchini, oregano, parmesan",peas,Italian,boil
+tomato Curry,"curry tomato, onion, spinach, ginger, lemongrass",tomato,Thai,curry
+eggplant Bake,"bake eggplant, tomato, broccoli, butter, onion",eggplant,American,bake
+cabbage Saute,"saute cabbage, cauliflower, cilantro, salsa",cabbage,Mexican,saute
+carrot Boil,"boil carrot, peas, garlic, olive oil",carrot,Mediterranean,boil
+cauliflower Boil,"boil cauliflower, mushroom, bell pepper, spinach, oregano, basil",cauliflower,Italian,boil
+peas Stir Fry,"stir fry peas, broccoli, cabbage, spinach, salsa, cilantro",peas,Mexican,stir fry
+carrot Bake,"bake carrot, bell pepper, lemon, garlic",carrot,Mediterranean,bake
+cabbage Soup,"soup cabbage, cauliflower, cheddar, cream",cabbage,American,soup
+cauliflower Soup,"soup cauliflower, onion, bell pepper, ginger, sesame oil",cauliflower,Chinese,soup
+peas Stir Fry,"stir fry peas, potato, lemongrass, ginger",peas,Thai,stir fry
+cabbage Boil,"boil cabbage, onion, peas, garam masala, chili",cabbage,Indian,boil
+peas Stir Fry,"stir fry peas, cabbage, spinach, basil, tomato sauce",peas,Italian,stir fry
+tomato Stir Fry,"stir fry tomato, mushroom, cauliflower, garlic, olive oil",tomato,Mediterranean,stir fry
+zucchini Stir Fry,"stir fry zucchini, mushroom, feta, tomato",zucchini,Mediterranean,stir fry
+mushroom Roast,"roast mushroom, bell pepper, eggplant, bacon, onion",mushroom,American,roast
+onion Soup,"soup onion, broccoli, sesame oil, ginger",onion,Chinese,soup
+eggplant Grill,"grill eggplant, cabbage, spinach, thyme, garlic",eggplant,French,grill
+eggplant Grill,"grill eggplant, spinach, sesame oil, spring onion",eggplant,Chinese,grill
+tomato Soup,"soup tomato, carrot, cabbage, spinach, cumin, turmeric",tomato,Indian,soup
+bell pepper Curry,"curry bell pepper, potato, garlic, onion, cream",bell pepper,French,curry
+cabbage Boil,"boil cabbage, tomato, onion, tomato sauce, parmesan",cabbage,Italian,boil
+onion Soup,"soup onion, bell pepper, mushroom, zucchini, chili, coconut milk",onion,Thai,soup
+mushroom Roast,"roast mushroom, zucchini, chili, ginger",mushroom,Thai,roast
+broccoli Bake,"bake broccoli, eggplant, zucchini, spinach, cheddar, avocado",broccoli,Mexican,bake
+carrot Stir Fry,"stir fry carrot, mushroom, cauliflower, lemon, olive oil",carrot,Mediterranean,stir fry
+broccoli Curry,"curry broccoli, carrot, beans, corn",broccoli,Mexican,curry
+cauliflower Saute,"saute cauliflower, eggplant, potato, olive oil, garlic",cauliflower,Mediterranean,saute
+mushroom Stir Fry,"stir fry mushroom, peas, onion, carrot, parmesan, mozzarella",mushroom,Italian,stir fry
+peas Roast,"roast peas, zucchini, avocado, cilantro",peas,Mexican,roast
+cabbage Bake,"bake cabbage, broccoli, bell pepper, garlic, tomato sauce, basil",cabbage,Italian,bake
+cabbage Roast,"roast cabbage, garlic, potato, olive oil, butter",cabbage,French,roast
+garlic Saute,"saute garlic, peas, broccoli, lemongrass, coconut milk",garlic,Thai,saute
+cabbage Roast,"roast cabbage, peas, tomato sauce, mozzarella",cabbage,Italian,roast
+potato Roast,"roast potato, garlic, lemongrass, chili",potato,Thai,roast
+tomato Saute,"saute tomato, eggplant, ginger, coconut milk",tomato,Thai,saute
+zucchini Saute,"saute zucchini, onion, garlic, fish sauce",zucchini,Thai,saute
+spinach Boil,"boil spinach, cabbage, onion, peas, tomato sauce, basil",spinach,Italian,boil
+broccoli Soup,"soup broccoli, spinach, coriander, chili",broccoli,Indian,soup
+zucchini Bake,"bake zucchini, onion, spinach, sesame oil, spring onion",zucchini,Chinese,bake
+cabbage Boil,"boil cabbage, carrot, spinach, cauliflower, basil, oregano",cabbage,Italian,boil
+mushroom Curry,"curry mushroom, peas, cauliflower, cabbage, cilantro, salsa",mushroom,Mexican,curry
+onion Saute,"saute onion, bell pepper, peas, broccoli, garlic, soy sauce",onion,Chinese,saute
+garlic Grill,"grill garlic, peas, mushroom, bell pepper, spring onion, chili",garlic,Chinese,grill
+peas Roast,"roast peas, onion, garam masala, cumin",peas,Indian,roast
+cabbage Stir Fry,"stir fry cabbage, garlic, eggplant, cheddar, salsa",cabbage,Mexican,stir fry
+tomato Soup,"soup tomato, broccoli, cumin, garam masala",tomato,Indian,soup
+cabbage Curry,"curry cabbage, carrot, broccoli, mushroom, fish sauce, chili",cabbage,Thai,curry
+broccoli Curry,"curry broccoli, carrot, potato, oregano, olive oil",broccoli,Italian,curry
+eggplant Roast,"roast eggplant, cauliflower, sesame oil, spring onion",eggplant,Chinese,roast
+cauliflower Bake,"bake cauliflower, tomato, broccoli, avocado, corn",cauliflower,Mexican,bake
+potato Bake,"bake potato, broccoli, lemongrass, coconut milk",potato,Thai,bake
+tomato Saute,"saute tomato, mushroom, avocado, salsa",tomato,Mexican,saute
+garlic Boil,"boil garlic, spinach, cream, garlic",garlic,French,boil
+tomato Boil,"boil tomato, garlic, bell pepper, tomato, herbs",tomato,Mediterranean,boil
+mushroom Soup,"soup mushroom, zucchini, cilantro, salsa",mushroom,Mexican,soup
+broccoli Soup,"soup broccoli, zucchini, garlic, eggplant, beans, avocado",broccoli,Mexican,soup
+carrot Roast,"roast carrot, spinach, salsa, cilantro",carrot,Mexican,roast
+tomato Stir Fry,"stir fry tomato, potato, broccoli, coriander, turmeric",tomato,Indian,stir fry
+potato Stir Fry,"stir fry potato, garlic, mushroom, garlic, cream",potato,French,stir fry
+zucchini Saute,"saute zucchini, cabbage, cauliflower, garlic, coconut milk",zucchini,Thai,saute
+broccoli Grill,"grill broccoli, eggplant, ginger, chili",broccoli,Thai,grill
+cabbage Soup,"soup cabbage, potato, eggplant, coconut milk, fish sauce",cabbage,Thai,soup
+peas Grill,"grill peas, spinach, broccoli, basil, tomato sauce",peas,Italian,grill
+potato Roast,"roast potato, eggplant, cabbage, garlic, olive oil",potato,French,roast
+peas Boil,"boil peas, spinach, mushroom, cabbage, oregano, basil",peas,Italian,boil
+tomato Bake,"bake tomato, eggplant, cauliflower, zucchini, onion, butter",tomato,American,bake
+eggplant Boil,"boil eggplant, cabbage, turmeric, coriander",eggplant,Indian,boil
+mushroom Boil,"boil mushroom, zucchini, cauliflower, ginger, chili",mushroom,Thai,boil
+tomato Curry,"curry tomato, carrot, mushroom, broccoli, butter, garlic",tomato,French,curry
+carrot Roast,"roast carrot, tomato, lemon, olive oil",carrot,Mediterranean,roast
+eggplant Stir Fry,"stir fry eggplant, cabbage, peas, mushroom, coriander, turmeric",eggplant,Indian,stir fry
+peas Stir Fry,"stir fry peas, bell pepper, cabbage, butter, cheddar",peas,American,stir fry
+potato Stir Fry,"stir fry potato, onion, peas, ginger, chili",potato,Chinese,stir fry
+broccoli Roast,"roast broccoli, spinach, cauliflower, cabbage, garlic, lemon",broccoli,Mediterranean,roast
+eggplant Saute,"saute eggplant, potato, cabbage, peas, avocado, cilantro",eggplant,Mexican,saute
+cauliflower Soup,"soup cauliflower, spinach, zucchini, garlic, beans, avocado",cauliflower,Mexican,soup
+spinach Bake,"bake spinach, onion, peas, chili, coriander",spinach,Indian,bake
+cabbage Saute,"saute cabbage, potato, spinach, zucchini, cream, garlic",cabbage,French,saute
+garlic Grill,"grill garlic, spinach, onion, broccoli, corn, beans",garlic,Mexican,grill
+zucchini Soup,"soup zucchini, tomato, broccoli, herbs, garlic",zucchini,Mediterranean,soup
+garlic Saute,"saute garlic, broccoli, spinach, bell pepper, ginger, garam masala",garlic,Indian,saute
+onion Curry,"curry onion, mushroom, broccoli, zucchini, chili, coriander",onion,Indian,curry
+mushroom Bake,"bake mushroom, cauliflower, cabbage, cheddar, cream",mushroom,American,bake
+zucchini Soup,"soup zucchini, cabbage, butter, bacon",zucchini,American,soup
+broccoli Stir Fry,"stir fry broccoli, mushroom, zucchini, chili, lemongrass",broccoli,Thai,stir fry
+bell pepper Roast,"roast bell pepper, cabbage, mushroom, tomato, herbs",bell pepper,Mediterranean,roast
+carrot Soup,"soup carrot, cauliflower, potato, garlic, mozzarella, oregano",carrot,Italian,soup
+eggplant Roast,"roast eggplant, tomato, carrot, lemongrass, ginger",eggplant,Thai,roast
+spinach Boil,"boil spinach, broccoli, garlic, mushroom, sesame oil, ginger",spinach,Chinese,boil
+bell pepper Saute,"saute bell pepper, mushroom, broccoli, peas, fish sauce, lemongrass",bell pepper,Thai,saute
+zucchini Curry,"curry zucchini, onion, coriander, turmeric",zucchini,Indian,curry
+eggplant Grill,"grill eggplant, tomato, cauliflower, bacon, butter",eggplant,American,grill
+eggplant Saute,"saute eggplant, zucchini, spinach, beans, corn",eggplant,Mexican,saute
+broccoli Saute,"saute broccoli, peas, mushroom, tomato, mozzarella, tomato sauce",broccoli,Italian,saute
+onion Boil,"boil onion, carrot, mushroom, tomato, turmeric, ginger",onion,Indian,boil
+broccoli Soup,"soup broccoli, tomato, cabbage, potato, bacon, butter",broccoli,American,soup
+spinach Boil,"boil spinach, zucchini, mushroom, corn, salsa",spinach,Mexican,boil
+potato Saute,"saute potato, onion, corn, cheddar",potato,Mexican,saute
+bell pepper Boil,"boil bell pepper, cabbage, garlic, ginger",bell pepper,Chinese,boil
+broccoli Grill,"grill broccoli, mushroom, tomato, coriander, turmeric",broccoli,Indian,grill
+broccoli Boil,"boil broccoli, mushroom, tomato, coriander, ginger",broccoli,Indian,boil
+eggplant Grill,"grill eggplant, bell pepper, potato, coconut milk, chili",eggplant,Thai,grill
+bell pepper Roast,"roast bell pepper, carrot, potato, garlic, coconut milk",bell pepper,Thai,roast
+zucchini Stir Fry,"stir fry zucchini, bell pepper, garlic, cauliflower, corn, cilantro",zucchini,Mexican,stir fry
+eggplant Bake,"bake eggplant, mushroom, soy sauce, spring onion",eggplant,Chinese,bake
+zucchini Soup,"soup zucchini, spinach, cheddar, avocado",zucchini,Mexican,soup
+cabbage Stir Fry,"stir fry cabbage, potato, onion, garam masala, ginger",cabbage,Indian,stir fry
+garlic Grill,"grill garlic, cauliflower, broccoli, carrot, olive oil, thyme",garlic,French,grill
+eggplant Roast,"roast eggplant, spinach, garlic, lemon, olive oil",eggplant,Mediterranean,roast
+tomato Roast,"roast tomato, cabbage, carrot, broccoli, chili, turmeric",tomato,Indian,roast
+bell pepper Curry,"curry bell pepper, mushroom, cabbage, spring onion, ginger",bell pepper,Chinese,curry
+potato Bake,"bake potato, carrot, zucchini, sesame oil, chili",potato,Chinese,bake
+cabbage Saute,"saute cabbage, potato, spinach, olive oil, basil",cabbage,Italian,saute
+tomato Saute,"saute tomato, onion, potato, zucchini, tomato, lemon",tomato,Mediterranean,saute
+eggplant Soup,"soup eggplant, spinach, garam masala, cumin",eggplant,Indian,soup
+spinach Grill,"grill spinach, zucchini, chili, ginger",spinach,Chinese,grill
+tomato Boil,"boil tomato, cauliflower, eggplant, parmesan, oregano",tomato,Italian,boil
+tomato Soup,"soup tomato, peas, cheddar, corn",tomato,Mexican,soup
+garlic Saute,"saute garlic, zucchini, garlic, lemon",garlic,Mediterranean,saute
+cabbage Bake,"bake cabbage, eggplant, cauliflower, chili, coconut milk",cabbage,Thai,bake
+bell pepper Boil,"boil bell pepper, eggplant, mushroom, cream, onion",bell pepper,French,boil
+broccoli Stir Fry,"stir fry broccoli, carrot, cabbage, onion, cilantro, salsa",broccoli,Mexican,stir fry
+zucchini Bake,"bake zucchini, mushroom, peas, carrot, coriander, garam masala",zucchini,Indian,bake
+potato Soup,"soup potato, tomato, eggplant, onion, mozzarella, oregano",potato,Italian,soup
+zucchini Bake,"bake zucchini, garlic, potato, lemongrass, chili",zucchini,Thai,bake
+garlic Stir Fry,"stir fry garlic, potato, lemon, garlic",garlic,Mediterranean,stir fry
+eggplant Soup,"soup eggplant, cabbage, chili, spring onion",eggplant,Chinese,soup
+peas Boil,"boil peas, cabbage, tomato, garlic, cream",peas,French,boil
+onion Bake,"bake onion, potato, cauliflower, garlic, ginger",onion,Chinese,bake
+tomato Roast,"roast tomato, peas, herbs, tomato",tomato,Mediterranean,roast
+bell pepper Roast,"roast bell pepper, cauliflower, garlic, salsa, cheddar",bell pepper,Mexican,roast
+bell pepper Saute,"saute bell pepper, potato, garam masala, chili",bell pepper,Indian,saute
+tomato Saute,"saute tomato, cabbage, broccoli, onion, olive oil",tomato,French,saute
+cauliflower Saute,"saute cauliflower, onion, mushroom, potato, onion, butter",cauliflower,American,saute
+tomato Grill,"grill tomato, eggplant, mozzarella, parmesan",tomato,Italian,grill
+carrot Saute,"saute carrot, spinach, bell pepper, butter, olive oil",carrot,French,saute
+onion Roast,"roast onion, broccoli, bell pepper, spinach, mozzarella, olive oil",onion,Italian,roast
+zucchini Roast,"roast zucchini, onion, cabbage, chili, garlic",zucchini,Thai,roast
+tomato Soup,"soup tomato, broccoli, mushroom, bell pepper, soy sauce, ginger",tomato,Chinese,soup
+garlic Soup,"soup garlic, peas, cream, butter",garlic,French,soup
+cauliflower Bake,"bake cauliflower, zucchini, mushroom, garlic, cumin, ginger",cauliflower,Indian,bake
+tomato Stir Fry,"stir fry tomato, spinach, fish sauce, chili",tomato,Thai,stir fry
+garlic Boil,"boil garlic, potato, carrot, eggplant, basil, olive oil",garlic,Italian,boil
+peas Bake,"bake peas, potato, garlic, spring onion",peas,Chinese,bake
+broccoli Roast,"roast broccoli, mushroom, peas, zucchini, lemon, feta",broccoli,Mediterranean,roast
+eggplant Bake,"bake eggplant, garlic, garlic, chili",eggplant,Chinese,bake
+cauliflower Stir Fry,"stir fry cauliflower, onion, tomato, olive oil, tomato",cauliflower,Mediterranean,stir fry
+zucchini Roast,"roast zucchini, bell pepper, spinach, cheddar, beans",zucchini,Mexican,roast
+carrot Roast,"roast carrot, broccoli, eggplant, cauliflower, herbs, olive oil",carrot,Mediterranean,roast
+cabbage Soup,"soup cabbage, garlic, spinach, bell pepper, garlic, thyme",cabbage,French,soup
+garlic Boil,"boil garlic, carrot, potato, spinach, onion, garlic",garlic,French,boil
+bell pepper Roast,"roast bell pepper, zucchini, cauliflower, mushroom, butter, onion",bell pepper,French,roast
+spinach Roast,"roast spinach, broccoli, chili, garlic",spinach,Thai,roast
+carrot Saute,"saute carrot, eggplant, cabbage, broccoli, olive oil, mozzarella",carrot,Italian,saute
+carrot Soup,"soup carrot, mushroom, feta, lemon",carrot,Mediterranean,soup
+zucchini Bake,"bake zucchini, spinach, eggplant, cheddar, onion",zucchini,American,bake
+bell pepper Soup,"soup bell pepper, spinach, chili, fish sauce",bell pepper,Thai,soup
+garlic Boil,"boil garlic, peas, fish sauce, lemongrass",garlic,Thai,boil
+mushroom Bake,"bake mushroom, zucchini, coconut milk, ginger",mushroom,Thai,bake
+broccoli Bake,"bake broccoli, spinach, carrot, garlic, avocado, corn",broccoli,Mexican,bake
+mushroom Boil,"boil mushroom, carrot, tomato, tomato, onion",mushroom,American,boil
+peas Curry,"curry peas, zucchini, olive oil, mozzarella",peas,Italian,curry
+potato Soup,"soup potato, bell pepper, cabbage, garlic, cream",potato,French,soup
+peas Boil,"boil peas, bell pepper, onion, avocado, beans",peas,Mexican,boil
+onion Saute,"saute onion, spinach, garlic, ginger",onion,Chinese,saute
+onion Bake,"bake onion, cabbage, bell pepper, salsa, avocado",onion,Mexican,bake
+zucchini Curry,"curry zucchini, onion, garam masala, turmeric",zucchini,Indian,curry
+tomato Boil,"boil tomato, eggplant, mushroom, garlic, garam masala, turmeric",tomato,Indian,boil
+garlic Stir Fry,"stir fry garlic, potato, ginger, soy sauce",garlic,Chinese,stir fry
+zucchini Stir Fry,"stir fry zucchini, broccoli, cauliflower, mushroom, coriander, ginger",zucchini,Indian,stir fry
+spinach Boil,"boil spinach, eggplant, basil, olive oil",spinach,Italian,boil
+bell pepper Grill,"grill bell pepper, cauliflower, cheddar, avocado",bell pepper,Mexican,grill
+broccoli Soup,"soup broccoli, potato, cabbage, carrot, olive oil, thyme",broccoli,French,soup
+broccoli Roast,"roast broccoli, mushroom, basil, tomato sauce",broccoli,Italian,roast
+onion Curry,"curry onion, eggplant, cauliflower, broccoli, chili, coriander",onion,Indian,curry
+garlic Boil,"boil garlic, potato, tomato, broccoli, garlic, chili",garlic,Thai,boil
+carrot Stir Fry,"stir fry carrot, mushroom, broccoli, bell pepper, herbs, feta",carrot,Mediterranean,stir fry
+zucchini Grill,"grill zucchini, eggplant, carrot, herbs, lemon",zucchini,Mediterranean,grill
+mushroom Saute,"saute mushroom, peas, cauliflower, garlic, beans, avocado",mushroom,Mexican,saute
+spinach Roast,"roast spinach, mushroom, peas, cheddar, bacon",spinach,American,roast
+cauliflower Bake,"bake cauliflower, eggplant, carrot, potato, chili, lemongrass",cauliflower,Thai,bake
+bell pepper Soup,"soup bell pepper, carrot, broccoli, garlic, sesame oil, chili",bell pepper,Chinese,soup
+tomato Boil,"boil tomato, zucchini, potato, cumin, garam masala",tomato,Indian,boil
+spinach Stir Fry,"stir fry spinach, potato, sesame oil, chili",spinach,Chinese,stir fry
+tomato Bake,"bake tomato, eggplant, broccoli, olive oil, tomato",tomato,Mediterranean,bake
+cabbage Roast,"roast cabbage, spinach, zucchini, garlic, onion",cabbage,French,roast
+potato Stir Fry,"stir fry potato, cabbage, peas, butter, onion",potato,American,stir fry
+mushroom Saute,"saute mushroom, garlic, onion, cauliflower, garam masala, cumin",mushroom,Indian,saute
+cauliflower Bake,"bake cauliflower, spinach, zucchini, bell pepper, coconut milk, lemongrass",cauliflower,Thai,bake
+cauliflower Saute,"saute cauliflower, spinach, garlic, corn, salsa",cauliflower,Mexican,saute
+bell pepper Curry,"curry bell pepper, carrot, broccoli, cabbage, tomato, garlic",bell pepper,Mediterranean,curry
+cabbage Boil,"boil cabbage, garlic, tomato, cauliflower, garlic, chili",cabbage,Chinese,boil
+mushroom Boil,"boil mushroom, eggplant, salsa, corn",mushroom,Mexican,boil
+zucchini Grill,"grill zucchini, carrot, oregano, olive oil",zucchini,Italian,grill
+potato Curry,"curry potato, spinach, olive oil, mozzarella",potato,Italian,curry
+cauliflower Bake,"bake cauliflower, potato, zucchini, ginger, chili",cauliflower,Thai,bake
+eggplant Stir Fry,"stir fry eggplant, mushroom, carrot, spinach, cumin, coriander",eggplant,Indian,stir fry
+cauliflower Stir Fry,"stir fry cauliflower, cabbage, mushroom, feta, garlic",cauliflower,Mediterranean,stir fry
+tomato Curry,"curry tomato, peas, potato, cilantro, salsa",tomato,Mexican,curry
+peas Boil,"boil peas, broccoli, spinach, mushroom, corn, cheddar",peas,Mexican,boil
+peas Bake,"bake peas, zucchini, soy sauce, sesame oil",peas,Chinese,bake
+tomato Bake,"bake tomato, cabbage, cauliflower, corn, salsa",tomato,Mexican,bake
+cabbage Soup,"soup cabbage, tomato, olive oil, cream",cabbage,French,soup
+cabbage Boil,"boil cabbage, bell pepper, potato, coconut milk, chili",cabbage,Thai,boil
+carrot Grill,"grill carrot, cabbage, eggplant, cumin, turmeric",carrot,Indian,grill
+zucchini Curry,"curry zucchini, broccoli, onion, butter",zucchini,American,curry
+garlic Curry,"curry garlic, cauliflower, onion, spinach, lemon, tomato",garlic,Mediterranean,curry
+broccoli Bake,"bake broccoli, eggplant, spinach, garlic, tomato sauce, oregano",broccoli,Italian,bake
+carrot Soup,"soup carrot, bell pepper, potato, cauliflower, beans, salsa",carrot,Mexican,soup
+bell pepper Stir Fry,"stir fry bell pepper, eggplant, garlic, butter",bell pepper,French,stir fry
+eggplant Boil,"boil eggplant, tomato, cabbage, butter, olive oil",eggplant,French,boil
+zucchini Bake,"bake zucchini, peas, spinach, broccoli, garlic, coconut milk",zucchini,Thai,bake
+cauliflower Saute,"saute cauliflower, garlic, olive oil, parmesan",cauliflower,Italian,saute
+carrot Soup,"soup carrot, garlic, zucchini, onion, ginger, garam masala",carrot,Indian,soup
+carrot Stir Fry,"stir fry carrot, zucchini, cabbage, eggplant, sesame oil, soy sauce",carrot,Chinese,stir fry
+peas Stir Fry,"stir fry peas, zucchini, bell pepper, cream, butter",peas,American,stir fry
+mushroom Stir Fry,"stir fry mushroom, cabbage, zucchini, carrot, tomato sauce, mozzarella",mushroom,Italian,stir fry
+tomato Roast,"roast tomato, carrot, bell pepper, broccoli, feta, lemon",tomato,Mediterranean,roast
+zucchini Grill,"grill zucchini, tomato, carrot, cabbage, garlic, onion",zucchini,French,grill
+onion Boil,"boil onion, potato, olive oil, garlic",onion,French,boil
+cauliflower Bake,"bake cauliflower, spinach, garlic, eggplant, cream, garlic",cauliflower,French,bake
+potato Saute,"saute potato, cabbage, broccoli, cream, cheddar",potato,American,saute
+cauliflower Grill,"grill cauliflower, broccoli, potato, onion, basil, olive oil",cauliflower,Italian,grill
+garlic Boil,"boil garlic, bell pepper, onion, coconut milk, fish sauce",garlic,Thai,boil
+spinach Curry,"curry spinach, onion, cabbage, sesame oil, spring onion",spinach,Chinese,curry
+broccoli Roast,"roast broccoli, eggplant, oregano, olive oil",broccoli,Italian,roast
+broccoli Roast,"roast broccoli, eggplant, potato, beans, avocado",broccoli,Mexican,roast
+garlic Bake,"bake garlic, potato, carrot, salsa, cilantro",garlic,Mexican,bake
+cauliflower Grill,"grill cauliflower, onion, eggplant, broccoli, chili, coconut milk",cauliflower,Thai,grill
+eggplant Boil,"boil eggplant, potato, butter, thyme",eggplant,French,boil
+mushroom Curry,"curry mushroom, peas, olive oil, tomato sauce",mushroom,Italian,curry
+zucchini Roast,"roast zucchini, garlic, peas, carrot, garlic, lemon",zucchini,Mediterranean,roast
+cabbage Curry,"curry cabbage, eggplant, feta, herbs",cabbage,Mediterranean,curry
+tomato Saute,"saute tomato, spinach, carrot, garlic, chili",tomato,Chinese,saute
+bell pepper Saute,"saute bell pepper, cabbage, ginger, turmeric",bell pepper,Indian,saute
+spinach Soup,"soup spinach, broccoli, peas, onion, garlic, sesame oil",spinach,Chinese,soup
+broccoli Roast,"roast broccoli, cauliflower, garlic, tomato, thyme, butter",broccoli,French,roast
+carrot Stir Fry,"stir fry carrot, peas, spinach, onion, olive oil",carrot,French,stir fry
+spinach Grill,"grill spinach, eggplant, peas, broccoli, tomato sauce, basil",spinach,Italian,grill
+potato Soup,"soup potato, peas, carrot, garam masala, turmeric",potato,Indian,soup
+tomato Saute,"saute tomato, garlic, tomato sauce, oregano",tomato,Italian,saute
+cauliflower Bake,"bake cauliflower, onion, onion, tomato",cauliflower,American,bake
+onion Bake,"bake onion, mushroom, cauliflower, chili, spring onion",onion,Chinese,bake
+bell pepper Boil,"boil bell pepper, mushroom, spinach, cheddar, onion",bell pepper,American,boil
+zucchini Curry,"curry zucchini, tomato, cheddar, cream",zucchini,American,curry
+tomato Soup,"soup tomato, broccoli, zucchini, bell pepper, olive oil, basil",tomato,Italian,soup
+bell pepper Bake,"bake bell pepper, garlic, zucchini, broccoli, bacon, butter",bell pepper,American,bake
+cauliflower Curry,"curry cauliflower, bell pepper, peas, cumin, turmeric",cauliflower,Indian,curry
+eggplant Boil,"boil eggplant, cauliflower, herbs, lemon",eggplant,Mediterranean,boil
+bell pepper Stir Fry,"stir fry bell pepper, peas, garlic, olive oil",bell pepper,Mediterranean,stir fry
+peas Soup,"soup peas, potato, fish sauce, garlic",peas,Thai,soup
+potato Bake,"bake potato, tomato, cauliflower, lemongrass, chili",potato,Thai,bake
+cauliflower Grill,"grill cauliflower, eggplant, peas, zucchini, thyme, cream",cauliflower,French,grill
+eggplant Saute,"saute eggplant, spinach, coconut milk, chili",eggplant,Thai,saute
+eggplant Stir Fry,"stir fry eggplant, onion, potato, turmeric, coriander",eggplant,Indian,stir fry
+peas Grill,"grill peas, eggplant, spinach, turmeric, ginger",peas,Indian,grill
+zucchini Saute,"saute zucchini, carrot, tomato, chili, soy sauce",zucchini,Chinese,saute
+eggplant Stir Fry,"stir fry eggplant, spinach, cauliflower, coriander, ginger",eggplant,Indian,stir fry
+bell pepper Roast,"roast bell pepper, eggplant, ginger, garlic",bell pepper,Thai,roast
+bell pepper Roast,"roast bell pepper, potato, mushroom, butter, bacon",bell pepper,American,roast
+potato Grill,"grill potato, spinach, chili, spring onion",potato,Chinese,grill
+carrot Saute,"saute carrot, mushroom, cumin, turmeric",carrot,Indian,saute
+spinach Curry,"curry spinach, tomato, cabbage, olive oil, garlic",spinach,Mediterranean,curry
+zucchini Roast,"roast zucchini, spinach, carrot, garlic, ginger",zucchini,Chinese,roast
+bell pepper Grill,"grill bell pepper, broccoli, carrot, onion, corn, salsa",bell pepper,Mexican,grill
+garlic Boil,"boil garlic, cauliflower, tomato, garlic, butter",garlic,French,boil
+cabbage Stir Fry,"stir fry cabbage, eggplant, butter, tomato",cabbage,American,stir fry
+carrot Bake,"bake carrot, zucchini, eggplant, butter, cream",carrot,American,bake
+broccoli Roast,"roast broccoli, peas, eggplant, potato, butter, thyme",broccoli,French,roast
+carrot Boil,"boil carrot, tomato, fish sauce, lemongrass",carrot,Thai,boil
+tomato Bake,"bake tomato, onion, eggplant, olive oil, garlic",tomato,French,bake
+onion Saute,"saute onion, tomato, broccoli, potato, mozzarella, basil",onion,Italian,saute
+onion Curry,"curry onion, broccoli, potato, cabbage, cream, butter",onion,American,curry
+cauliflower Curry,"curry cauliflower, onion, tomato sauce, parmesan",cauliflower,Italian,curry
+tomato Curry,"curry tomato, peas, cauliflower, zucchini, olive oil, tomato sauce",tomato,Italian,curry
+mushroom Saute,"saute mushroom, broccoli, zucchini, herbs, tomato",mushroom,Mediterranean,saute
+mushroom Grill,"grill mushroom, broccoli, onion, eggplant, ginger, chili",mushroom,Thai,grill
+broccoli Bake,"bake broccoli, carrot, garlic, cream",broccoli,French,bake
+bell pepper Roast,"roast bell pepper, zucchini, cauliflower, potato, corn, avocado",bell pepper,Mexican,roast
+zucchini Saute,"saute zucchini, broccoli, garlic, chili, sesame oil",zucchini,Chinese,saute
+carrot Bake,"bake carrot, peas, spring onion, soy sauce",carrot,Chinese,bake
+garlic Stir Fry,"stir fry garlic, cauliflower, bell pepper, feta, garlic",garlic,Mediterranean,stir fry
+broccoli Saute,"saute broccoli, mushroom, spinach, coriander, chili",broccoli,Indian,saute
+garlic Bake,"bake garlic, bell pepper, olive oil, herbs",garlic,Mediterranean,bake
+cauliflower Grill,"grill cauliflower, garlic, broccoli, potato, garlic, chili",cauliflower,Chinese,grill
+garlic Roast,"roast garlic, onion, salsa, beans",garlic,Mexican,roast
+eggplant Bake,"bake eggplant, onion, potato, ginger, lemongrass",eggplant,Thai,bake
+bell pepper Boil,"boil bell pepper, peas, onion, mushroom, cumin, chili",bell pepper,Indian,boil
+spinach Saute,"saute spinach, cauliflower, bell pepper, butter, cheddar",spinach,American,saute
+cauliflower Soup,"soup cauliflower, zucchini, peas, tomato, thyme, olive oil",cauliflower,French,soup
+potato Soup,"soup potato, zucchini, carrot, garlic, lemongrass, coconut milk",potato,Thai,soup
+garlic Boil,"boil garlic, peas, broccoli, chili, turmeric",garlic,Indian,boil
+eggplant Soup,"soup eggplant, zucchini, bell pepper, beans, cheddar",eggplant,Mexican,soup
+tomato Saute,"saute tomato, carrot, cauliflower, zucchini, basil, tomato sauce",tomato,Italian,saute
+cauliflower Stir Fry,"stir fry cauliflower, garlic, garlic, onion",cauliflower,French,stir fry
+carrot Stir Fry,"stir fry carrot, spinach, lemon, tomato",carrot,Mediterranean,stir fry
+carrot Boil,"boil carrot, tomato, cabbage, coconut milk, ginger",carrot,Thai,boil
+onion Boil,"boil onion, tomato, bell pepper, turmeric, garam masala",onion,Indian,boil
+eggplant Grill,"grill eggplant, bell pepper, potato, cabbage, cheddar, avocado",eggplant,Mexican,grill
+onion Bake,"bake onion, broccoli, zucchini, coconut milk, garlic",onion,Thai,bake
+tomato Boil,"boil tomato, eggplant, cauliflower, carrot, butter, garlic",tomato,French,boil
+cauliflower Stir Fry,"stir fry cauliflower, onion, olive oil, garlic",cauliflower,French,stir fry
+mushroom Soup,"soup mushroom, potato, peas, chili, garlic",mushroom,Thai,soup
+onion Curry,"curry onion, garlic, carrot, eggplant, lemongrass, garlic",onion,Thai,curry
+carrot Curry,"curry carrot, cabbage, onion, cream, onion",carrot,French,curry
+cabbage Roast,"roast cabbage, onion, mushroom, cream, garlic",cabbage,French,roast
+cabbage Soup,"soup cabbage, mushroom, broccoli, peas, lemon, tomato",cabbage,Mediterranean,soup
+peas Boil,"boil peas, potato, tomato, cauliflower, spring onion, soy sauce",peas,Chinese,boil
+peas Curry,"curry peas, eggplant, tomato, onion, salsa, corn",peas,Mexican,curry
+broccoli Stir Fry,"stir fry broccoli, bell pepper, tomato, carrot, sesame oil, soy sauce",broccoli,Chinese,stir fry
+peas Roast,"roast peas, garlic, zucchini, bell pepper, mozzarella, tomato sauce",peas,Italian,roast
+mushroom Soup,"soup mushroom, onion, potato, bell pepper, ginger, chili",mushroom,Chinese,soup
+potato Roast,"roast potato, broccoli, tomato, cauliflower, feta, tomato",potato,Mediterranean,roast
+potato Soup,"soup potato, spinach, carrot, tomato, garlic, feta",potato,Mediterranean,soup
+eggplant Soup,"soup eggplant, peas, spinach, bell pepper, parmesan, basil",eggplant,Italian,soup
+onion Curry,"curry onion, peas, broccoli, olive oil, thyme",onion,French,curry
+garlic Roast,"roast garlic, carrot, onion, tomato, olive oil",garlic,Mediterranean,roast
+bell pepper Boil,"boil bell pepper, tomato, cilantro, corn",bell pepper,Mexican,boil
+broccoli Roast,"roast broccoli, bell pepper, mushroom, chili, lemongrass",broccoli,Thai,roast
+cabbage Stir Fry,"stir fry cabbage, mushroom, bell pepper, garam masala, ginger",cabbage,Indian,stir fry
+mushroom Boil,"boil mushroom, garlic, bacon, onion",mushroom,American,boil
+zucchini Soup,"soup zucchini, cabbage, coriander, ginger",zucchini,Indian,soup
+cauliflower Grill,"grill cauliflower, peas, potato, garlic, thyme",cauliflower,French,grill
+cauliflower Bake,"bake cauliflower, garlic, cream, cheddar",cauliflower,American,bake
+peas Curry,"curry peas, carrot, garlic, eggplant, cream, onion",peas,French,curry
+cabbage Saute,"saute cabbage, potato, peas, coconut milk, lemongrass",cabbage,Thai,saute
+mushroom Boil,"boil mushroom, eggplant, bell pepper, garlic, spring onion",mushroom,Chinese,boil
+potato Roast,"roast potato, peas, bell pepper, garlic, fish sauce",potato,Thai,roast
+potato Curry,"curry potato, bell pepper, zucchini, coriander, ginger",potato,Indian,curry
+broccoli Saute,"saute broccoli, garlic, olive oil, garlic",broccoli,French,saute
+onion Bake,"bake onion, broccoli, carrot, cabbage, olive oil, garlic",onion,French,bake
+tomato Soup,"soup tomato, peas, cabbage, broccoli, turmeric, garam masala",tomato,Indian,soup
+onion Stir Fry,"stir fry onion, peas, spinach, zucchini, garlic, herbs",onion,Mediterranean,stir fry
+cauliflower Saute,"saute cauliflower, cabbage, potato, peas, beans, cilantro",cauliflower,Mexican,saute
+broccoli Stir Fry,"stir fry broccoli, spinach, garlic, eggplant, cilantro, beans",broccoli,Mexican,stir fry
+broccoli Stir Fry,"stir fry broccoli, tomato, carrot, bell pepper, chili, ginger",broccoli,Thai,stir fry
+carrot Boil,"boil carrot, broccoli, potato, bell pepper, beans, salsa",carrot,Mexican,boil
+cauliflower Boil,"boil cauliflower, bell pepper, ginger, fish sauce",cauliflower,Thai,boil
+bell pepper Curry,"curry bell pepper, broccoli, peas, eggplant, turmeric, cumin",bell pepper,Indian,curry
+zucchini Grill,"grill zucchini, onion, basil, mozzarella",zucchini,Italian,grill
+mushroom Saute,"saute mushroom, eggplant, cheddar, cilantro",mushroom,Mexican,saute
+spinach Boil,"boil spinach, cabbage, mozzarella, oregano",spinach,Italian,boil
+bell pepper Soup,"soup bell pepper, spinach, onion, cabbage, ginger, cumin",bell pepper,Indian,soup
+zucchini Curry,"curry zucchini, broccoli, cilantro, corn",zucchini,Mexican,curry
+zucchini Roast,"roast zucchini, mushroom, garlic, eggplant, ginger, chili",zucchini,Chinese,roast
+bell pepper Bake,"bake bell pepper, mushroom, potato, tomato, garlic, olive oil",bell pepper,French,bake
+broccoli Boil,"boil broccoli, potato, peas, tomato, tomato, lemon",broccoli,Mediterranean,boil
+zucchini Saute,"saute zucchini, mushroom, tomato, olive oil",zucchini,Mediterranean,saute
+cauliflower Boil,"boil cauliflower, bell pepper, carrot, onion, butter, thyme",cauliflower,French,boil
+potato Soup,"soup potato, peas, onion, salsa, corn",potato,Mexican,soup
+carrot Curry,"curry carrot, zucchini, tomato, peas, garlic, feta",carrot,Mediterranean,curry
+carrot Stir Fry,"stir fry carrot, broccoli, cheddar, cilantro",carrot,Mexican,stir fry
+garlic Bake,"bake garlic, eggplant, cauliflower, cabbage, chili, ginger",garlic,Chinese,bake
+onion Roast,"roast onion, cauliflower, bell pepper, garlic, cream",onion,French,roast
+zucchini Bake,"bake zucchini, cabbage, chili, fish sauce",zucchini,Thai,bake
+carrot Boil,"boil carrot, mushroom, potato, salsa, beans",carrot,Mexican,boil
+cauliflower Boil,"boil cauliflower, spinach, bell pepper, garam masala, turmeric",cauliflower,Indian,boil
+tomato Roast,"roast tomato, zucchini, ginger, turmeric",tomato,Indian,roast
+zucchini Curry,"curry zucchini, spinach, onion, onion, thyme",zucchini,French,curry
+bell pepper Stir Fry,"stir fry bell pepper, mushroom, broccoli, eggplant, garlic, chili",bell pepper,Thai,stir fry
+cabbage Boil,"boil cabbage, peas, corn, avocado",cabbage,Mexican,boil
+potato Boil,"boil potato, bell pepper, cabbage, mushroom, mozzarella, tomato sauce",potato,Italian,boil
+bell pepper Curry,"curry bell pepper, zucchini, garlic, eggplant, lemon, olive oil",bell pepper,Mediterranean,curry
+carrot Saute,"saute carrot, spinach, zucchini, onion, soy sauce, ginger",carrot,Chinese,saute
+spinach Roast,"roast spinach, garlic, potato, bell pepper, lemongrass, ginger",spinach,Thai,roast
+zucchini Curry,"curry zucchini, spinach, carrot, cauliflower, garlic, lemongrass",zucchini,Thai,curry
+potato Boil,"boil potato, mushroom, broccoli, ginger, chili",potato,Indian,boil
+eggplant Grill,"grill eggplant, zucchini, garlic, coconut milk, garlic",eggplant,Thai,grill
+tomato Bake,"bake tomato, cauliflower, cabbage, garlic, tomato, feta",tomato,Mediterranean,bake
+carrot Roast,"roast carrot, bell pepper, cauliflower, coriander, garam masala",carrot,Indian,roast
+garlic Boil,"boil garlic, bell pepper, potato, garlic, spring onion",garlic,Chinese,boil
+eggplant Curry,"curry eggplant, cabbage, zucchini, mushroom, chili, coconut milk",eggplant,Thai,curry
+zucchini Grill,"grill zucchini, mushroom, broccoli, chili, fish sauce",zucchini,Thai,grill
+broccoli Boil,"boil broccoli, potato, bacon, cream",broccoli,American,boil
+peas Grill,"grill peas, tomato, tomato sauce, oregano",peas,Italian,grill
+mushroom Boil,"boil mushroom, peas, ginger, chili",mushroom,Indian,boil
+peas Saute,"saute peas, cabbage, bell pepper, ginger, cumin",peas,Indian,saute
+peas Soup,"soup peas, garlic, zucchini, thyme, cream",peas,French,soup
+zucchini Saute,"saute zucchini, peas, cauliflower, cabbage, onion, garlic",zucchini,French,saute
+broccoli Boil,"boil broccoli, potato, carrot, garlic, ginger, lemongrass",broccoli,Thai,boil
+peas Soup,"soup peas, broccoli, eggplant, cilantro, beans",peas,Mexican,soup
+carrot Curry,"curry carrot, garlic, olive oil, parmesan",carrot,Italian,curry
+zucchini Bake,"bake zucchini, bell pepper, broccoli, mushroom, oregano, mozzarella",zucchini,Italian,bake
+carrot Soup,"soup carrot, mushroom, cauliflower, olive oil, tomato",carrot,Mediterranean,soup
+broccoli Curry,"curry broccoli, zucchini, coconut milk, chili",broccoli,Thai,curry
+tomato Saute,"saute tomato, onion, spinach, peas, thyme, olive oil",tomato,French,saute
+spinach Stir Fry,"stir fry spinach, cabbage, mushroom, thyme, cream",spinach,French,stir fry
+mushroom Roast,"roast mushroom, bell pepper, turmeric, ginger",mushroom,Indian,roast
+onion Stir Fry,"stir fry onion, cauliflower, zucchini, spinach, bacon, onion",onion,American,stir fry
+cabbage Soup,"soup cabbage, eggplant, avocado, corn",cabbage,Mexican,soup
+zucchini Stir Fry,"stir fry zucchini, broccoli, spinach, basil, tomato sauce",zucchini,Italian,stir fry
+bell pepper Bake,"bake bell pepper, broccoli, potato, cauliflower, fish sauce, garlic",bell pepper,Thai,bake
+garlic Saute,"saute garlic, bell pepper, cheddar, beans",garlic,Mexican,saute
+zucchini Stir Fry,"stir fry zucchini, spinach, broccoli, cauliflower, tomato, lemon",zucchini,Mediterranean,stir fry
+garlic Roast,"roast garlic, tomato, carrot, cauliflower, ginger, spring onion",garlic,Chinese,roast
+garlic Saute,"saute garlic, carrot, tomato, mushroom, cumin, turmeric",garlic,Indian,saute
+spinach Boil,"boil spinach, cauliflower, tomato, cumin, ginger",spinach,Indian,boil
+onion Stir Fry,"stir fry onion, peas, bacon, butter",onion,American,stir fry
+spinach Stir Fry,"stir fry spinach, eggplant, potato, tomato, feta",spinach,Mediterranean,stir fry
+tomato Boil,"boil tomato, potato, peas, cauliflower, olive oil, tomato sauce",tomato,Italian,boil
+cabbage Bake,"bake cabbage, broccoli, zucchini, mozzarella, parmesan",cabbage,Italian,bake
+cabbage Saute,"saute cabbage, cauliflower, olive oil, garlic",cabbage,French,saute
+zucchini Roast,"roast zucchini, peas, cabbage, mushroom, butter, tomato",zucchini,American,roast
+garlic Grill,"grill garlic, cauliflower, olive oil, garlic",garlic,Mediterranean,grill
+broccoli Boil,"boil broccoli, eggplant, onion, lemongrass, chili",broccoli,Thai,boil
+potato Grill,"grill potato, bell pepper, garlic, cabbage, tomato, lemon",potato,Mediterranean,grill
+spinach Curry,"curry spinach, cabbage, broccoli, mushroom, garlic, spring onion",spinach,Chinese,curry
+carrot Roast,"roast carrot, tomato, zucchini, broccoli, ginger, garlic",carrot,Chinese,roast
+potato Bake,"bake potato, broccoli, carrot, olive oil, basil",potato,Italian,bake
+spinach Roast,"roast spinach, carrot, zucchini, lemon, olive oil",spinach,Mediterranean,roast
+eggplant Stir Fry,"stir fry eggplant, potato, onion, carrot, olive oil, thyme",eggplant,French,stir fry
+broccoli Grill,"grill broccoli, onion, spinach, garlic, onion",broccoli,French,grill
+spinach Soup,"soup spinach, peas, broccoli, spring onion, garlic",spinach,Chinese,soup
+cabbage Stir Fry,"stir fry cabbage, tomato, herbs, olive oil",cabbage,Mediterranean,stir fry
+broccoli Boil,"boil broccoli, eggplant, ginger, garlic",broccoli,Chinese,boil
+cabbage Soup,"soup cabbage, potato, peas, bacon, tomato",cabbage,American,soup
+cabbage Boil,"boil cabbage, bell pepper, potato, chili, fish sauce",cabbage,Thai,boil
+onion Roast,"roast onion, zucchini, peas, broccoli, chili, spring onion",onion,Chinese,roast
+broccoli Boil,"boil broccoli, tomato, garam masala, ginger",broccoli,Indian,boil
+cabbage Curry,"curry cabbage, zucchini, garlic, mushroom, cumin, turmeric",cabbage,Indian,curry
+mushroom Bake,"bake mushroom, spinach, carrot, cauliflower, onion, cheddar",mushroom,American,bake
+spinach Boil,"boil spinach, eggplant, olive oil, oregano",spinach,Italian,boil
+spinach Boil,"boil spinach, eggplant, carrot, cilantro, avocado",spinach,Mexican,boil
+tomato Grill,"grill tomato, eggplant, spring onion, sesame oil",tomato,Chinese,grill
+garlic Saute,"saute garlic, mushroom, bell pepper, onion, ginger, soy sauce",garlic,Chinese,saute
+zucchini Curry,"curry zucchini, tomato, carrot, cabbage, salsa, avocado",zucchini,Mexican,curry
+tomato Boil,"boil tomato, mushroom, avocado, salsa",tomato,Mexican,boil
+cabbage Soup,"soup cabbage, broccoli, garlic, cilantro, salsa",cabbage,Mexican,soup
+mushroom Saute,"saute mushroom, bell pepper, tomato, broccoli, lemongrass, fish sauce",mushroom,Thai,saute
+potato Soup,"soup potato, zucchini, ginger, garlic",potato,Thai,soup
+cauliflower Bake,"bake cauliflower, peas, olive oil, tomato sauce",cauliflower,Italian,bake
+peas Curry,"curry peas, mushroom, soy sauce, ginger",peas,Chinese,curry
+peas Bake,"bake peas, spinach, zucchini, mushroom, garlic, butter",peas,French,bake
+peas Curry,"curry peas, cauliflower, cheddar, cilantro",peas,Mexican,curry
+bell pepper Bake,"bake bell pepper, cabbage, tomato, lemon",bell pepper,Mediterranean,bake
+cauliflower Curry,"curry cauliflower, peas, cabbage, carrot, cilantro, beans",cauliflower,Mexican,curry
+tomato Curry,"curry tomato, cauliflower, bell pepper, mozzarella, parmesan",tomato,Italian,curry
+garlic Boil,"boil garlic, spinach, bacon, cheddar",garlic,American,boil
+zucchini Grill,"grill zucchini, eggplant, oregano, olive oil",zucchini,Italian,grill
+garlic Stir Fry,"stir fry garlic, eggplant, garlic, spring onion",garlic,Chinese,stir fry
+bell pepper Saute,"saute bell pepper, cabbage, peas, potato, basil, mozzarella",bell pepper,Italian,saute
+bell pepper Bake,"bake bell pepper, spinach, potato, tomato, thyme, onion",bell pepper,French,bake
+cabbage Roast,"roast cabbage, onion, onion, butter",cabbage,American,roast
+spinach Bake,"bake spinach, zucchini, coconut milk, fish sauce",spinach,Thai,bake
+mushroom Soup,"soup mushroom, eggplant, lemon, garlic",mushroom,Mediterranean,soup
+tomato Bake,"bake tomato, potato, eggplant, mushroom, spring onion, chili",tomato,Chinese,bake
+cauliflower Soup,"soup cauliflower, tomato, soy sauce, ginger",cauliflower,Chinese,soup
+potato Saute,"saute potato, cauliflower, cilantro, salsa",potato,Mexican,saute
+zucchini Soup,"soup zucchini, bell pepper, corn, avocado",zucchini,Mexican,soup
+peas Stir Fry,"stir fry peas, bell pepper, cauliflower, zucchini, cream, cheddar",peas,American,stir fry
+peas Soup,"soup peas, potato, basil, tomato sauce",peas,Italian,soup
+cauliflower Boil,"boil cauliflower, eggplant, cabbage, onion, avocado, beans",cauliflower,Mexican,boil
+zucchini Soup,"soup zucchini, mushroom, broccoli, carrot, basil, olive oil",zucchini,Italian,soup
+broccoli Soup,"soup broccoli, tomato, potato, cream, bacon",broccoli,American,soup
+tomato Grill,"grill tomato, peas, mozzarella, oregano",tomato,Italian,grill
+onion Curry,"curry onion, cauliflower, cabbage, beans, cilantro",onion,Mexican,curry
+carrot Boil,"boil carrot, bell pepper, cauliflower, thyme, garlic",carrot,French,boil
+carrot Boil,"boil carrot, tomato, peas, thyme, garlic",carrot,French,boil
+zucchini Bake,"bake zucchini, spinach, cauliflower, cheddar, avocado",zucchini,Mexican,bake
+bell pepper Bake,"bake bell pepper, potato, spinach, garlic, sesame oil",bell pepper,Chinese,bake
+peas Roast,"roast peas, broccoli, parmesan, oregano",peas,Italian,roast
+carrot Boil,"boil carrot, broccoli, eggplant, zucchini, cheddar, beans",carrot,Mexican,boil
+carrot Stir Fry,"stir fry carrot, bell pepper, eggplant, tomato, ginger, lemongrass",carrot,Thai,stir fry
+potato Boil,"boil potato, tomato, cauliflower, mozzarella, tomato sauce",potato,Italian,boil
+broccoli Curry,"curry broccoli, garlic, chili, garlic",broccoli,Chinese,curry
+mushroom Boil,"boil mushroom, zucchini, peas, spinach, lemongrass, garlic",mushroom,Thai,boil
+mushroom Boil,"boil mushroom, potato, cream, thyme",mushroom,French,boil
+cabbage Roast,"roast cabbage, mushroom, carrot, bell pepper, herbs, tomato",cabbage,Mediterranean,roast
+broccoli Grill,"grill broccoli, cabbage, potato, carrot, thyme, olive oil",broccoli,French,grill
+zucchini Roast,"roast zucchini, cauliflower, parmesan, oregano",zucchini,Italian,roast
+spinach Bake,"bake spinach, potato, peas, oregano, basil",spinach,Italian,bake
+tomato Grill,"grill tomato, carrot, eggplant, butter, onion",tomato,French,grill
+peas Saute,"saute peas, tomato, cumin, garam masala",peas,Indian,saute
+garlic Saute,"saute garlic, peas, zucchini, onion, butter",garlic,French,saute
+zucchini Stir Fry,"stir fry zucchini, onion, herbs, garlic",zucchini,Mediterranean,stir fry
+mushroom Roast,"roast mushroom, tomato, garlic, onion, ginger, turmeric",mushroom,Indian,roast
+peas Curry,"curry peas, garlic, butter, garlic",peas,French,curry
+cauliflower Stir Fry,"stir fry cauliflower, potato, carrot, garlic, onion",cauliflower,French,stir fry
+carrot Grill,"grill carrot, spinach, soy sauce, sesame oil",carrot,Chinese,grill
+broccoli Soup,"soup broccoli, carrot, turmeric, ginger",broccoli,Indian,soup
+broccoli Roast,"roast broccoli, cauliflower, herbs, feta",broccoli,Mediterranean,roast
+peas Soup,"soup peas, tomato, eggplant, coriander, chili",peas,Indian,soup
+bell pepper Curry,"curry bell pepper, carrot, olive oil, parmesan",bell pepper,Italian,curry
+mushroom Bake,"bake mushroom, broccoli, olive oil, tomato",mushroom,Mediterranean,bake
+spinach Roast,"roast spinach, cabbage, potato, mushroom, avocado, corn",spinach,Mexican,roast
+carrot Roast,"roast carrot, cauliflower, eggplant, onion, mozzarella, tomato sauce",carrot,Italian,roast
+cauliflower Roast,"roast cauliflower, zucchini, fish sauce, ginger",cauliflower,Thai,roast
+potato Roast,"roast potato, spinach, bell pepper, cream, onion",potato,American,roast
+onion Curry,"curry onion, peas, potato, beans, avocado",onion,Mexican,curry
+onion Roast,"roast onion, peas, garlic, fish sauce",onion,Thai,roast
+peas Curry,"curry peas, eggplant, zucchini, oregano, olive oil",peas,Italian,curry
+eggplant Grill,"grill eggplant, garlic, zucchini, chili, coconut milk",eggplant,Thai,grill
+bell pepper Saute,"saute bell pepper, eggplant, cabbage, coriander, garam masala",bell pepper,Indian,saute
+peas Saute,"saute peas, carrot, turmeric, coriander",peas,Indian,saute
+broccoli Curry,"curry broccoli, zucchini, mushroom, garlic, butter",broccoli,French,curry
+peas Saute,"saute peas, tomato, broccoli, soy sauce, garlic",peas,Chinese,saute
+carrot Roast,"roast carrot, peas, broccoli, spinach, mozzarella, oregano",carrot,Italian,roast
+broccoli Saute,"saute broccoli, onion, tomato, mozzarella, oregano",broccoli,Italian,saute
+onion Grill,"grill onion, broccoli, onion, butter",onion,American,grill
+cauliflower Stir Fry,"stir fry cauliflower, zucchini, onion, spring onion, chili",cauliflower,Chinese,stir fry
+peas Grill,"grill peas, bell pepper, potato, tomato, salsa, cilantro",peas,Mexican,grill
+mushroom Bake,"bake mushroom, cabbage, lemongrass, garlic",mushroom,Thai,bake
+eggplant Boil,"boil eggplant, potato, garlic, olive oil",eggplant,Mediterranean,boil
+cabbage Stir Fry,"stir fry cabbage, tomato, zucchini, oregano, mozzarella",cabbage,Italian,stir fry
+bell pepper Saute,"saute bell pepper, potato, tomato, fish sauce, lemongrass",bell pepper,Thai,saute
+bell pepper Boil,"boil bell pepper, mushroom, tomato, eggplant, garlic, herbs",bell pepper,Mediterranean,boil
+bell pepper Stir Fry,"stir fry bell pepper, broccoli, zucchini, potato, lemon, tomato",bell pepper,Mediterranean,stir fry
+spinach Soup,"soup spinach, cabbage, potato, garlic, olive oil",spinach,French,soup
+onion Curry,"curry onion, garlic, beans, cilantro",onion,Mexican,curry
+peas Roast,"roast peas, carrot, bell pepper, cream, garlic",peas,French,roast
+tomato Saute,"saute tomato, peas, cabbage, olive oil, butter",tomato,French,saute
+mushroom Boil,"boil mushroom, eggplant, tomato, broccoli, mozzarella, parmesan",mushroom,Italian,boil
+peas Grill,"grill peas, bell pepper, carrot, cauliflower, sesame oil, ginger",peas,Chinese,grill
+eggplant Bake,"bake eggplant, mushroom, feta, lemon",eggplant,Mediterranean,bake
+tomato Curry,"curry tomato, potato, garlic, onion, garlic",tomato,French,curry
+peas Boil,"boil peas, eggplant, cumin, chili",peas,Indian,boil
+carrot Soup,"soup carrot, broccoli, potato, olive oil, onion",carrot,French,soup
+spinach Saute,"saute spinach, tomato, mushroom, garlic, butter, garlic",spinach,French,saute
+peas Grill,"grill peas, broccoli, lemon, tomato",peas,Mediterranean,grill
+onion Boil,"boil onion, carrot, garlic, cauliflower, garlic, butter",onion,French,boil
+peas Grill,"grill peas, tomato, onion, garlic, chili, soy sauce",peas,Chinese,grill
+spinach Saute,"saute spinach, mushroom, cheddar, corn",spinach,Mexican,saute
+carrot Saute,"saute carrot, broccoli, peas, olive oil, tomato",carrot,Mediterranean,saute
+garlic Grill,"grill garlic, eggplant, onion, thyme, garlic",garlic,French,grill
+carrot Saute,"saute carrot, bell pepper, ginger, garam masala",carrot,Indian,saute
+peas Roast,"roast peas, cabbage, onion, cream",peas,French,roast
+bell pepper Stir Fry,"stir fry bell pepper, cauliflower, onion, mushroom, herbs, olive oil",bell pepper,Mediterranean,stir fry
+potato Grill,"grill potato, onion, zucchini, cabbage, fish sauce, ginger",potato,Thai,grill
+spinach Stir Fry,"stir fry spinach, carrot, mushroom, coriander, chili",spinach,Indian,stir fry
+spinach Boil,"boil spinach, potato, peas, fish sauce, lemongrass",spinach,Thai,boil
+cabbage Bake,"bake cabbage, bell pepper, carrot, ginger, sesame oil",cabbage,Chinese,bake
+zucchini Bake,"bake zucchini, carrot, cabbage, coriander, cumin",zucchini,Indian,bake
+zucchini Curry,"curry zucchini, broccoli, spring onion, ginger",zucchini,Chinese,curry
+carrot Soup,"soup carrot, peas, eggplant, garlic, herbs",carrot,Mediterranean,soup
+garlic Saute,"saute garlic, zucchini, garlic, ginger",garlic,Chinese,saute
+mushroom Bake,"bake mushroom, tomato, chili, ginger",mushroom,Chinese,bake
+onion Curry,"curry onion, zucchini, carrot, olive oil, feta",onion,Mediterranean,curry
+cabbage Boil,"boil cabbage, cauliflower, bell pepper, mushroom, cream, butter",cabbage,American,boil
+onion Curry,"curry onion, carrot, cabbage, lemongrass, coconut milk",onion,Thai,curry
+tomato Soup,"soup tomato, mushroom, eggplant, chili, soy sauce",tomato,Chinese,soup
+bell pepper Saute,"saute bell pepper, peas, onion, garlic, olive oil",bell pepper,French,saute
+peas Grill,"grill peas, mushroom, ginger, coconut milk",peas,Thai,grill
+cabbage Soup,"soup cabbage, tomato, spinach, beans, cheddar",cabbage,Mexican,soup
+cabbage Grill,"grill cabbage, carrot, cauliflower, cilantro, beans",cabbage,Mexican,grill
+cabbage Soup,"soup cabbage, spinach, cauliflower, olive oil, parmesan",cabbage,Italian,soup
+zucchini Soup,"soup zucchini, eggplant, onion, avocado, corn",zucchini,Mexican,soup
+broccoli Grill,"grill broccoli, garlic, mushroom, potato, garlic, herbs",broccoli,Mediterranean,grill
+carrot Soup,"soup carrot, potato, cauliflower, feta, tomato",carrot,Mediterranean,soup
+eggplant Curry,"curry eggplant, spinach, cream, thyme",eggplant,French,curry
+peas Roast,"roast peas, bell pepper, cream, butter",peas,American,roast
+tomato Bake,"bake tomato, spinach, cream, garlic",tomato,French,bake
+cauliflower Curry,"curry cauliflower, mushroom, garlic, sesame oil",cauliflower,Chinese,curry
+cauliflower Roast,"roast cauliflower, eggplant, peas, mushroom, sesame oil, soy sauce",cauliflower,Chinese,roast
+spinach Curry,"curry spinach, bell pepper, basil, olive oil",spinach,Italian,curry
+carrot Stir Fry,"stir fry carrot, eggplant, garlic, peas, chili, garam masala",carrot,Indian,stir fry
+eggplant Stir Fry,"stir fry eggplant, onion, garlic, coriander, cumin",eggplant,Indian,stir fry
+mushroom Curry,"curry mushroom, cauliflower, cabbage, carrot, thyme, garlic",mushroom,French,curry
+peas Saute,"saute peas, carrot, fish sauce, coconut milk",peas,Thai,saute
+cabbage Roast,"roast cabbage, zucchini, parmesan, olive oil",cabbage,Italian,roast
+garlic Roast,"roast garlic, mushroom, bell pepper, avocado, cheddar",garlic,Mexican,roast
+potato Saute,"saute potato, bell pepper, spinach, mozzarella, basil",potato,Italian,saute
+eggplant Grill,"grill eggplant, mushroom, chili, ginger",eggplant,Chinese,grill
+carrot Stir Fry,"stir fry carrot, tomato, peas, olive oil, tomato sauce",carrot,Italian,stir fry
+spinach Roast,"roast spinach, cabbage, fish sauce, chili",spinach,Thai,roast
+carrot Curry,"curry carrot, onion, peas, coconut milk, ginger",carrot,Thai,curry
+potato Stir Fry,"stir fry potato, onion, eggplant, salsa, beans",potato,Mexican,stir fry
+peas Boil,"boil peas, spinach, cauliflower, carrot, onion, garlic",peas,French,boil
+carrot Boil,"boil carrot, zucchini, spinach, garlic, chili, coriander",carrot,Indian,boil
+mushroom Curry,"curry mushroom, eggplant, zucchini, feta, herbs",mushroom,Mediterranean,curry
+cabbage Roast,"roast cabbage, bell pepper, peas, cauliflower, tomato, herbs",cabbage,Mediterranean,roast
+potato Soup,"soup potato, bell pepper, cabbage, cheddar, salsa",potato,Mexican,soup
+carrot Boil,"boil carrot, tomato, potato, peas, chili, spring onion",carrot,Chinese,boil
+onion Roast,"roast onion, broccoli, tomato, olive oil, mozzarella",onion,Italian,roast
+bell pepper Roast,"roast bell pepper, broccoli, peas, corn, beans",bell pepper,Mexican,roast
+potato Curry,"curry potato, zucchini, corn, salsa",potato,Mexican,curry
+peas Saute,"saute peas, mushroom, broccoli, tomato, garlic, herbs",peas,Mediterranean,saute
+peas Saute,"saute peas, eggplant, ginger, fish sauce",peas,Thai,saute
+peas Roast,"roast peas, potato, mushroom, butter, bacon",peas,American,roast
+eggplant Stir Fry,"stir fry eggplant, cauliflower, zucchini, cabbage, ginger, cumin",eggplant,Indian,stir fry
+eggplant Roast,"roast eggplant, carrot, tomato, spinach, parmesan, tomato sauce",eggplant,Italian,roast
+spinach Bake,"bake spinach, onion, olive oil, parmesan",spinach,Italian,bake
+cabbage Roast,"roast cabbage, onion, garam masala, chili",cabbage,Indian,roast
+tomato Soup,"soup tomato, peas, cauliflower, eggplant, garlic, lemon",tomato,Mediterranean,soup
+tomato Saute,"saute tomato, bell pepper, potato, garlic, fish sauce, lemongrass",tomato,Thai,saute
+tomato Bake,"bake tomato, onion, carrot, olive oil, herbs",tomato,Mediterranean,bake
+garlic Boil,"boil garlic, spinach, broccoli, bell pepper, chili, cumin",garlic,Indian,boil
+cauliflower Curry,"curry cauliflower, onion, tomato, garlic, olive oil",cauliflower,French,curry
+broccoli Grill,"grill broccoli, tomato, bell pepper, zucchini, lemon, olive oil",broccoli,Mediterranean,grill
+onion Curry,"curry onion, potato, salsa, corn",onion,Mexican,curry
+garlic Stir Fry,"stir fry garlic, eggplant, ginger, garlic",garlic,Chinese,stir fry
+carrot Curry,"curry carrot, garlic, potato, eggplant, ginger, garlic",carrot,Thai,curry
+peas Bake,"bake peas, potato, eggplant, carrot, butter, cheddar",peas,American,bake
+potato Roast,"roast potato, mushroom, ginger, sesame oil",potato,Chinese,roast
+bell pepper Curry,"curry bell pepper, carrot, eggplant, cilantro, avocado",bell pepper,Mexican,curry
+bell pepper Soup,"soup bell pepper, spinach, sesame oil, chili",bell pepper,Chinese,soup
+mushroom Soup,"soup mushroom, carrot, bell pepper, cauliflower, garlic, ginger",mushroom,Chinese,soup
+broccoli Grill,"grill broccoli, garlic, bacon, onion",broccoli,American,grill
+garlic Curry,"curry garlic, bell pepper, cheddar, beans",garlic,Mexican,curry
+peas Stir Fry,"stir fry peas, spinach, broccoli, mushroom, sesame oil, soy sauce",peas,Chinese,stir fry
+broccoli Curry,"curry broccoli, tomato, bell pepper, eggplant, cilantro, cheddar",broccoli,Mexican,curry
+bell pepper Bake,"bake bell pepper, garlic, broccoli, cauliflower, cheddar, bacon",bell pepper,American,bake
+carrot Curry,"curry carrot, peas, cauliflower, mushroom, olive oil, onion",carrot,French,curry
+zucchini Curry,"curry zucchini, garlic, spinach, lemongrass, ginger",zucchini,Thai,curry
+zucchini Saute,"saute zucchini, spinach, cabbage, potato, cream, bacon",zucchini,American,saute
+carrot Saute,"saute carrot, eggplant, thyme, olive oil",carrot,French,saute
+carrot Bake,"bake carrot, mushroom, soy sauce, spring onion",carrot,Chinese,bake
+spinach Bake,"bake spinach, tomato, tomato sauce, olive oil",spinach,Italian,bake
+eggplant Curry,"curry eggplant, tomato, cumin, turmeric",eggplant,Indian,curry
+bell pepper Saute,"saute bell pepper, eggplant, cilantro, beans",bell pepper,Mexican,saute
+peas Grill,"grill peas, carrot, mushroom, zucchini, coriander, cumin",peas,Indian,grill
+broccoli Saute,"saute broccoli, garlic, bell pepper, zucchini, butter, onion",broccoli,American,saute
+onion Grill,"grill onion, cauliflower, bell pepper, olive oil, parmesan",onion,Italian,grill
+mushroom Roast,"roast mushroom, eggplant, carrot, potato, salsa, avocado",mushroom,Mexican,roast
+eggplant Saute,"saute eggplant, carrot, peas, onion, garlic, spring onion",eggplant,Chinese,saute
+onion Stir Fry,"stir fry onion, peas, cabbage, tomato, salsa, cheddar",onion,Mexican,stir fry
